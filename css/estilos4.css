@@ -1,0 +1,63 @@
+body{
+	padding: 0%;
+	background-color: white;
+}
+
+
+
+h2{
+	margin-bottom: 3%;
+	margin-top: 5%;
+}
+p{
+	line-height: 1.5em;
+}
+
+/*-------------CABECERA------------*/
+
+a{
+	color:white;
+}
+.color{
+	color:white;
+	font-weight: bold;
+	font-size: 2em;
+	margin-right: 60%;
+}
+nav{
+	padding: 2% 0%;
+}
+
+
+/*-----FOOTER-----*/
+
+footer{
+	background-color: #70724D;
+	padding: 1.5% 0%;
+	margin-top: 2%;
+}
+
+/*--------EL TENIS------*/
+
+img#una{
+	float:left;
+	padding-right: 2%;
+}
+img#dos{
+	float: right;
+	padding-left: 2%;
+}
+.lista1{
+	color:black;
+	font-size: 3em;
+	background-color:#70724D;
+	padding: 2%;
+	border-radius: 11px;
+	text-align: center;
+}
+li{
+	list-style: none;
+	padding: 7% 0%;
+
+
+}
